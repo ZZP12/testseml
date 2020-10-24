@@ -10,3 +10,4 @@ CI with GitHub Actions
 ### add another Actions 
 
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://https://zzp12.github.io/testseml/dev/)
+[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://zzp12.github.io/testseml/stable)
