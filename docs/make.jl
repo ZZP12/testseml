@@ -21,4 +21,5 @@ makedocs(
 # for more information.
 deploydocs(
     repo = "github.com/ZZP12/testseml.jl.git",
+	devbranch = "main",
 )
