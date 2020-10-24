@@ -1,11 +1,9 @@
 # testseml.jl
-test Travis CI with SEML.jl 
-
-![Travic CI](https://travis-ci.com/ZZP12/testseml.jl.svg?branch=master)
+![Documentation](https://github.com/ZZP12/testseml/workflows/Documentation/badge.svg?branch=main)
 
 CI with GitHub Actions
 
-![CI](https://github.com/ZZP12/testseml.jl/workflows/CI/badge.svg)
+![CI](https://github.com/ZZP12/testseml/workflows/CI/badge.svg?branch=main)
 
 
 
